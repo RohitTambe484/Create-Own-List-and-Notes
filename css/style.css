@@ -1,0 +1,14 @@
+span{
+    border-radius: 10px;
+}
+
+body{
+    background-image: url("../img/photo.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hot{
+    background: transparent !important;
+}
+
+   
